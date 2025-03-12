@@ -26,6 +26,4 @@ Now you may execute "main.c" program :)
 
 - Gaurav Kumar (BT22CSE001)  
 - Divyansh Nigam (BT22CSE003)
-- Abhyudaya Bhatnagar (BT22CSE012)
 - Snehil Shah (BT22CSE015)  
-- Abhishek Sarkar (BT22CSE033)
